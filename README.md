@@ -10,4 +10,6 @@ Null Safety,
 Shared Preference.
 Dio,
 Light Mode
-Dark Mode.
+Dark Mode,
+sqflite.
+
