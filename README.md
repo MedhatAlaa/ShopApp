@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-Shop App Design using Rest Api, 
+Shop App Project with real time database Rest Api you can shoping ,choose your fevorite product.
+features used in the app:
+Rest Api, 
 Bloc Pattern,
 Ui,Ux,
 design patern,
